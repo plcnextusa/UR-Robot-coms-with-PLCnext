@@ -1,5 +1,5 @@
 # UR-Robot-coms-with-PLCnext
-This Sample Project sets set all the available communications (Read/Write) from the PLCnext to the UR Robot
+This Sample Project sets set all the available communications (Read/Write) from the PLCnext to the UR Robot using ProfiNet
 
 The Scope of this Project was to take the UR Robot ProfiNet Example that was originally created and proven with
 	the Siemens' PLC and convert all the data for use with the PLCnext Controller.
