@@ -21,9 +21,9 @@ A necessary component for the ProfiNet Connection is the GSDML file.
 The File is included with the Project Example, but also the GSD-V2.31-UR Zipped Files is also included as reference.
 
 If background information is required, the entire UR Robot Definitions and ProfiNet examples and base code
-	can be viewed and understood from thr UR Robot WebSite.
+	can be viewed and understood from the UR Robot WebSite.
 	The UR Website is: www.universal-robots.com
 	In the Main Search Bar, type in 'Profinet How-To' and several listings will appear.
 	This project used the 'Profinet How-To Guide CB3'.
-	The GSDML File located here (and also included) is the Correct File 'GSDML-V2.31-UR.zip).
+	The correct GSDML File located here (and also included) is the Correct File 'GSDML-V2.31-UR.zip).
 	Please note that if the GSML file that has the words 'ProfiSafe' is NOT the correct File.. Do not use it.
